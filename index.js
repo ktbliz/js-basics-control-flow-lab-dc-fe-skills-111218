@@ -30,5 +30,5 @@ ternaryCheckCity()
 
 
 function switchOnCharmFromTip(generosity) {
-  
+  case
 }
