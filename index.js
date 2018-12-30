@@ -20,5 +20,5 @@ scuberGreetingForFeet()
 
 
 function ternaryCheckCity() {
-  
+  const
 }
