@@ -1,4 +1,5 @@
 // Write your code in this file!
+
 function scuberGreetingForFeet(feet) {
   if (feet <= 400 ) {
     result = "This one is on me!";
@@ -15,14 +16,6 @@ function scuberGreetingForFeet(feet) {
   return result;
 }
 
-
-  
-
-function ternaryCheckCity(city) {
-  const city;
-  city === "NYC" ? "Ok, sounds good" : "No go.";
-}
+scuberGreetingForFeet()
 
 
-
-switchOnCharmFromTip()
