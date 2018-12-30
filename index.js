@@ -20,6 +20,5 @@ scuberGreetingForFeet()
 
 
 function ternaryCheckCity(city) {
-  const result = 
-    
+  city === "NYC" ? 
 }
