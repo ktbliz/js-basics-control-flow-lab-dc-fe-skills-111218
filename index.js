@@ -23,7 +23,7 @@ scuberGreetingForFeet()
 function ternaryCheckCity(city) {
   let result =
   city === "NYC" ? "Ok, sounds good." : "No go.";
-  return result
+  return result;
 }
 
 ternaryCheckCity()
@@ -31,9 +31,10 @@ ternaryCheckCity()
 
 function switchOnCharmFromTip(generosity) {
   case "generous":
-    break
+    break;
   case "not as generous":
-    break
+    break;
   case "thanks for everything":
-    
+    break;
+  return result;
 }
