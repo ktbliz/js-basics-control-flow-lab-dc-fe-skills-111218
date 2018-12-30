@@ -19,6 +19,6 @@ function scuberGreetingForFeet(feet) {
 scuberGreetingForFeet()
 
 
-function ternaryCheckCity() {
-  const
+function ternaryCheckCity(city) {
+  const result 
 }
