@@ -29,6 +29,6 @@ function ternaryCheckCity(city) {
 ternaryCheckCity()
 
 
-function switchOnCharmFromTip(generoisty) {
+function switchOnCharmFromTip(generosity) {
   
 }
